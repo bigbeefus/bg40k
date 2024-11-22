@@ -1,0 +1,133 @@
+$passoptions.latex()$
+\documentclass[letterpaper,twocolumn,oneside,titlepage]{book}
+
+\renewcommand{\familydefault}{ptm} % Set default font family to Times New Roman
+\usepackage[nobottomtitles*]{titlesec}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage[tc]{titlepic}
+\usepackage{pgothic}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+    {\pgothfamily\huge\color{black}}
+    {}
+    {20pt}
+    {}
+\titlespacing*{\chapter}
+    {0pt}
+    {-10pt}
+    {20pt}
+
+%Set Background
+\AddToHook{shipout/background}{%page backgrounds
+    \put (0in,-\paperheight){\includegraphics[width=\paperwidth,height=\paperheight]{img/style/background.jpg}}%
+}
+
+\title{
+    \includegraphics[width=\textwidth]{img/style/bg40klogo.png}\\
+}
+
+
+$if(beamerarticle)$
+\usepackage{beamerarticle} % needs to be loaded first
+$endif$
+\usepackage{xcolor}
+$if(geometry)$
+\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+$endif$
+\usepackage{amsmath,amssymb}
+$--
+$-- section numbering
+$--
+$if(numbersections)$
+\setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
+$else$
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+$endif$
+$fonts.latex()$
+$common.latex()$
+$for(header-includes)$
+$header-includes$
+$endfor$
+$after-header-includes.latex()$
+$hypersetup.latex()$
+
+$if(title)$
+\title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
+$endif$
+$if(subtitle)$
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{$subtitle$}
+$endif$
+\author{Beta v1.0}
+\date{\today}
+
+\begin{document}
+$if(has-frontmatter)$
+\frontmatter
+$endif$
+\maketitle
+
+$for(include-before)$
+$include-before$
+
+$endfor$
+$if(toc)$
+$if(toc-title)$
+\renewcommand*\contentsname{$toc-title$}
+$endif$
+{
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
+$endif$
+\setcounter{tocdepth}{$toc-depth$}
+\tableofcontents
+\cleardoublepage
+}
+$endif$
+$if(lof)$
+\listoffigures
+$endif$
+$if(lot)$
+\listoftables
+$endif$
+$if(linestretch)$
+\setstretch{$linestretch$}
+$endif$
+$if(has-frontmatter)$
+\mainmatter
+$endif$
+$body$
+
+$if(has-frontmatter)$
+\backmatter
+$endif$
+$if(natbib)$
+$if(bibliography)$
+$if(biblio-title)$
+$if(has-chapters)$
+\renewcommand\bibname{$biblio-title$}
+$else$
+\renewcommand\refname{$biblio-title$}
+$endif$
+$endif$
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+
+$endif$
+$endif$
+$if(biblatex)$
+\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+
+$endif$
+$for(include-after)$
+$include-after$
+
+$endfor$
+\end{document}

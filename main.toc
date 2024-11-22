@@ -1,0 +1,59 @@
+\contentsline {chapter}{\numberline {1}{\textbf {The Turn}}{The Turn}}{2}{}%
+\contentsline {section}{\numberline {1.1}{\textbf {Start of Turn}}{Start of Turn}}{2}{}%
+\contentsline {section}{\numberline {1.2}{\textbf {Orders}}{Orders}}{2}{}%
+\contentsline {subsection}{\numberline {1.2.1}{\textbf {Top Speed}}{Top Speed}}{2}{}%
+\contentsline {subsection}{\numberline {1.2.2}{\textbf {Maneuver and Fire}}{Maneuver and Fire}}{2}{}%
+\contentsline {subsection}{\numberline {1.2.3}{\textbf {Open Fire}}{Open Fire}}{3}{}%
+\contentsline {subsection}{\numberline {1.2.4}{\textbf {Close Assault (Charge)}}{Close Assault (Charge)}}{3}{}%
+\contentsline {subsection}{\numberline {1.2.5}{\textbf {Request Support}}{Request Support}}{3}{}%
+\contentsline {subsection}{\numberline {1.2.6}{\textbf {Tactical Coordination}}{Tactical Coordination}}{3}{}%
+\contentsline {subsection}{\numberline {1.2.7}{\textbf {Ambush Fire (Reaction Order)}}{Ambush Fire (Reaction Order)}}{3}{}%
+\contentsline {subsection}{\numberline {1.2.8}{\textbf {Reserve Move (Reaction Order)}}{Reserve Move (Reaction Order)}}{3}{}%
+\contentsline {section}{\numberline {1.3}{\textbf {Assault Phase}}{Assault Phase}}{3}{}%
+\contentsline {section}{\numberline {1.4}{\textbf {Rally \& End turn}}{Rally \& End turn}}{3}{}%
+\contentsline {chapter}{\numberline {2}{\textbf {Core Rules}}{Core Rules}}{5}{}%
+\contentsline {section}{\numberline {2.1}{\textbf {Deep Strike}}{Deep Strike}}{5}{}%
+\contentsline {subsection}{\numberline {2.1.1}{\textbf {Mishap}}{Mishap}}{5}{}%
+\contentsline {section}{\numberline {2.2}{\textbf {Flyers}}{Flyers}}{5}{}%
+\contentsline {section}{\numberline {2.3}{\textbf {Go To Ground}}{Go To Ground}}{5}{}%
+\contentsline {section}{\numberline {2.4}{\textbf {Psychic Manifestation}}{Psychic Manifestation}}{5}{}%
+\contentsline {section}{\numberline {2.5}{\textbf {Support Strikes}}{Support Strikes}}{6}{}%
+\contentsline {subsection}{\numberline {2.5.1}{\textbf {Long-Range Bombardment}}{Long-Range Bombardment}}{6}{}%
+\contentsline {subsection}{\numberline {2.5.2}{\textbf {Death From The Skies}}{Death From The Skies}}{6}{}%
+\contentsline {section}{\numberline {2.6}{\textbf {Sweeping Advance}}{Sweeping Advance}}{6}{}%
+\contentsline {subsection}{\numberline {2.6.1}{\textbf {Restrain or Pursue}}{Restrain or Pursue}}{6}{}%
+\contentsline {subsection}{\numberline {2.6.2}{\textbf {CAUGHT!}}{CAUGHT!}}{6}{}%
+\contentsline {subsection}{\numberline {2.6.3}{\textbf {Move Fleeing Unit}}{Move Fleeing Unit}}{6}{}%
+\contentsline {subsection}{\numberline {2.6.4}{\textbf {Follow-up move}}{Follow-up move}}{7}{}%
+\contentsline {section}{\numberline {2.7}{\textbf {Tank Riders}}{Tank Riders}}{7}{}%
+\contentsline {section}{\numberline {2.8}{\textbf {Transports}}{Transports}}{7}{}%
+\contentsline {section}{\numberline {2.9}{\textbf {Wound Allocation}}{Wound Allocation}}{7}{}%
+\contentsline {chapter}{\numberline {3}{\textbf {Force Organization}}{Force Organization}}{8}{}%
+\contentsline {section}{\numberline {3.1}{\textbf {Frontline Assets}}{Frontline Assets}}{8}{}%
+\contentsline {subsection}{\numberline {3.1.1}{\textbf {HQ}}{HQ}}{8}{}%
+\contentsline {subsection}{\numberline {3.1.2}{\textbf {Troops}}{Troops}}{8}{}%
+\contentsline {section}{\numberline {3.2}{\textbf {Support Assets}}{Support Assets}}{8}{}%
+\contentsline {subsection}{\numberline {3.2.1}{\textbf {Fast Attack}}{Fast Attack}}{8}{}%
+\contentsline {subsection}{\numberline {3.2.2}{\textbf {Heavy Support}}{Heavy Support}}{8}{}%
+\contentsline {subsection}{\numberline {3.2.3}{\textbf {Fortifications}}{Fortifications}}{9}{}%
+\contentsline {subsection}{\numberline {3.2.4}{\textbf {Additional Fire Support}}{Additional Fire Support}}{9}{}%
+\contentsline {subsection}{\numberline {3.2.5}{\textbf {Lords of War}}{Lords of War}}{9}{}%
+\contentsline {subsection}{\numberline {3.2.6}{\textbf {Restricted Units}}{Restricted Units}}{9}{}%
+\contentsline {chapter}{\numberline {4}{\textbf {Scenarios}}{Scenarios}}{10}{}%
+\contentsline {subsection}{\numberline {4.0.1}{\textbf {Objectives}}{Objectives}}{10}{}%
+\contentsline {subsection}{\numberline {4.0.2}{\textbf {Out-Scouted}}{Out-Scouted}}{10}{}%
+\contentsline {subsection}{\numberline {4.0.3}{\textbf {Reconnaissance Units}}{Reconnaissance Units}}{10}{}%
+\contentsline {subsection}{\numberline {4.0.4}{\textbf {Victory Conditions}}{Victory Conditions}}{10}{}%
+\contentsline {subsection}{\numberline {4.0.5}{\textbf {VP Limits}}{VP Limits}}{10}{}%
+\contentsline {subsection}{\numberline {4.0.6}{\textbf {Turn 0}}{Turn 0}}{10}{}%
+\contentsline {section}{\numberline {4.1}{\textbf {Counter Attack} {https://docs.google.com/document/d/1C_94dwA319858NZs3uMV_27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}{Counter Attack https://docs.google.com/document/d/1C\_94dwA319858NZs3uMV\_27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}{11}{}%
+\contentsline {chapter}{\numberline {5}{\textbf {Experimental Rules}}{Experimental Rules}}{12}{}%
+\contentsline {section}{\numberline {5.1}{\textbf {Barrage}}{Barrage}}{12}{}%
+\contentsline {section}{\numberline {5.2}{\textbf {Templates}}{Templates}}{12}{}%
+\contentsline {section}{\numberline {5.3}{\textbf {Point Blank}}{Point Blank}}{12}{}%
+\contentsline {section}{\numberline {5.4}{\textbf {Fearless}}{Fearless}}{13}{}%
+\contentsline {section}{\numberline {5.5}{\textbf {Re-rolls}}{Re-rolls}}{13}{}%
+\contentsline {section}{\numberline {5.6}{\textbf {Allies}}{Allies}}{13}{}%
+\contentsline {chapter}{\numberline {6}{\textbf {Codex Changes}}{Codex Changes}}{14}{}%
+\contentsline {section}{\numberline {6.1}{\textbf {Tyranids}}{Tyranids}}{14}{}%
+\contentsline {subsection}{\numberline {6.1.1}{\textbf {Special Rules}}{Special Rules}}{14}{}%

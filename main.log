@@ -1,0 +1,4217 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.15)  8 NOV 2024 11:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/dan/Documents/40k-pandoc/main.tex
+(c:/Users/dan/Documents/40k-pandoc/main.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+(c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/02/08 v1.4n Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (c:/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks17
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen147
+\pgfutil@tempdimb=\dimen148
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen151
+\pgf@y=\dimen152
+\pgf@xa=\dimen153
+\pgf@ya=\dimen154
+\pgf@xb=\dimen155
+\pgf@yb=\dimen156
+\pgf@xc=\dimen157
+\pgf@yc=\dimen158
+\pgf@xd=\dimen159
+\pgf@yd=\dimen160
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count269
+\c@pgf@countb=\count270
+\c@pgf@countc=\count271
+\c@pgf@countd=\count272
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count273
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count274
+\pgfsyssoftpath@bigbuffer@items=\count275
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen161
+\pgfmath@count=\count276
+\pgfmath@box=\box54
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count277
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen162
+\pgf@picmaxx=\dimen163
+\pgf@picminy=\dimen164
+\pgf@picmaxy=\dimen165
+\pgf@pathminx=\dimen166
+\pgf@pathmaxx=\dimen167
+\pgf@pathminy=\dimen168
+\pgf@pathmaxy=\dimen169
+\pgf@xx=\dimen170
+\pgf@xy=\dimen171
+\pgf@yx=\dimen172
+\pgf@yy=\dimen173
+\pgf@zx=\dimen174
+\pgf@zy=\dimen175
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen176
+\pgf@path@lasty=\dimen177
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen178
+\pgf@shorten@start@additional=\dimen179
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count278
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen180
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen181
+\pgf@pt@y=\dimen182
+\pgf@pt@temp=\dimen183
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen184
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen185
+\pgf@sys@shading@range@num=\count279
+\pgf@shadingcount=\count280
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box58
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box59
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen186
+\pgf@nodesepend=\dimen187
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen188
+\pgffor@skip=\dimen189
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count281
+\pgfplotmarksize=\dimen190
+)
+\tikz@lastx=\dimen191
+\tikz@lasty=\dimen192
+\tikz@lastxsaved=\dimen193
+\tikz@lastysaved=\dimen194
+\tikz@lastmovetox=\dimen195
+\tikz@lastmovetoy=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count282
+\tikznumberofchildren=\count283
+\tikznumberofcurrentchild=\count284
+\tikz@fig@count=\count285
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count286
+\pgfmatrixcurrentcolumn=\count287
+\pgf@matrix@numberofcolumns=\count288
+)
+\tikz@expandcount=\count289
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/latex/titlepic/titlepic.sty
+Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
+) (c:/texlive/2024/texmf-dist/tex/latex/bookhands/pgothic.sty
+Package: pgothic 2002/12/30 v1.0 package for Gothic Prescius fonts
+) (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 116.
+ (c:/texlive/2024/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count290
+\l__pdf_internal_box=\box64
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count291
+\scratchdimen=\dimen199
+\scratchbox=\box65
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen256
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks32
+) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (c:/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2024/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (./40k.tex
+
+./40k.tex:2: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \PassOptionsToPackage
+                         {unicode}{hyperref}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:3: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \PassOptionsToPackage
+                         {hyphens}{url}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:4: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \documentclass
+                  [letterpaper,twocolumn,oneside,titlepage]{book}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+[]\T1/ptm/m/n/10 unicodehyperref hy-phen-surl [let-ter-pa-
+ []
+
+
+./40k.tex:7: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \usepackage
+               [nobottomtitles*]{titlesec}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:8: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \usepackage
+               {tikz}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:9: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \usepackage
+               {graphicx}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:10: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \usepackage
+                [tc]{titlepic}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:11: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \usepackage
+                {pgothic}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:12: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \usepackage
+                [T1]{fontenc}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+[]\T1/ptm/m/n/10 [nobottomtitles*]titlesec tikz graph-icx [tc]titlepic
+ []
+
+
+./40k.tex:31: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \usepackage
+                {xcolor}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:32: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \usepackage
+                {amsmath,amssymb}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:34: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \usepackage
+                {iftex}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:36: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36   \usepackage
+                  [T1]{fontenc}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:37: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37   \usepackage
+                  [utf8]{inputenc}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:38: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38   \usepackage
+                  {textcomp} % provide euro and other symbols
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:44: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \usepackage
+                {lmodern}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:49: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 ...xists{upquote.sty}{\usepackage{upquote}}{}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:53: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 }{}
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./40k.tex:53: Undefined control sequence.
+\reserved@a ...age []{microtype} \UseMicrotypeSet 
+                                                  [protrusion]{basicmath} 
+l.53 }{}
+        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./40k.tex:62: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62   \KOMAoptions{parskip=half}}
+                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:64: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \usepackage
+                {graphicx}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\pandoc@box=\box66
+
+./40k.tex:82: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \usepackage
+                {bookmark}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./40k.tex:83: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 \IfFileExists{xurl.sty}{\usepackage{xurl}}{}
+                                                  % add URL line breaks if a...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./40k.tex:84: Undefined control sequence.
+l.84 \urlstyle
+              {same}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:85: Undefined control sequence.
+l.85 \hypersetup
+                {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--88
+[]\T1/ptm/m/n/10 xcolor ams-math,amssymb  if-tex [T1]fontenc
+ []
+
+
+./40k.tex:92: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+
+
+
+<img/style/background.jpg, id=4, 614.295pt x 794.97pt>
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 93.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 93.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[1{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+
+ <./img/style/background.jpg>]
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 93.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 93.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[2
+
+]
+<img/style/bg40klogo.png, id=14, 451.6875pt x 451.6875pt>
+File: img/style/bg40klogo.png Graphic file (type png)
+<use img/style/bg40klogo.png>
+Package pdftex.def Info: img/style/bg40klogo.png  used on input line 94.
+(pdftex.def)             Requested size: 469.0pt x 469.02711pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 94.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 94.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 94.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 94.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 94.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[1
+
+
+ <./img/style/bg40klogo.png>]
+LaTeX Font Info:    Trying to load font information for OT1+pgoth on input line 98.
+ (c:/texlive/2024/texmf-dist/tex/latex/bookhands/ot1pgoth.fd)
+No file main.toc.
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 98.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 98.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[2
+
+
+
+]
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 115.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 115.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[1
+
+
+
+
+]
+Chapter 1.
+./40k.tex:115: Undefined control sequence.
+<argument> ...rline {\thechapter }\texorpdfstring 
+                                                  {\textbf {The Turn}}{The T...
+l.115 ...orpdfstring{\textbf{The Turn}}{The Turn}}
+                                                  \label{the-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:115: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {The Turn}}{The T...
+l.115 ...orpdfstring{\textbf{The Turn}}{The Turn}}
+                                                  \label{the-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:115: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {The Turn}}{The T...
+l.115 ...orpdfstring{\textbf{The Turn}}{The Turn}}
+                                                  \label{the-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:115: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {The Turn}}{The Turn}
+l.115 ...orpdfstring{\textbf{The Turn}}{The Turn}}
+                                                  \label{the-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Font Warning: Font shape `OT1/pgoth/b/n' in size <20.74> not available
+(Font)              Font shape `OT1/pgoth/bx/n' tried instead on input line 115.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+./40k.tex:134: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Start of Turn}}{Start of Turn}
+l.134 Turn}}{Start of Turn}}
+                            \label{start-of-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:134: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Start of Turn}}{...
+l.134 Turn}}{Start of Turn}}
+                            \label{start-of-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:134: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Start of Turn}}{...
+l.134 Turn}}{Start of Turn}}
+                            \label{start-of-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:134: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Start of Turn}}{...
+l.134 Turn}}{Start of Turn}}
+                            \label{start-of-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:134: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Start of Turn}}{...
+l.134 Turn}}{Start of Turn}}
+                            \label{start-of-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:134: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Start of Turn}}{Start of Turn}
+l.134 Turn}}{Start of Turn}}\label{start-of-turn}
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:143: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Orders}}{Orders}
+l.143 ...\texorpdfstring{\textbf{Orders}}{Orders}}
+                                                  \label{orders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:143: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Orders}}{Orders}
+l.143 ...\texorpdfstring{\textbf{Orders}}{Orders}}
+                                                  \label{orders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:143: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Orders}}{Orders}
+l.143 ...\texorpdfstring{\textbf{Orders}}{Orders}}
+                                                  \label{orders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:143: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Orders}}{Orders}
+l.143 ...\texorpdfstring{\textbf{Orders}}{Orders}}
+                                                  \label{orders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:143: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Orders}}{Orders}...
+l.143 ...\texorpdfstring{\textbf{Orders}}{Orders}}
+                                                  \label{orders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:143: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Orders}}{Orders}
+l.143 ...g{\textbf{Orders}}{Orders}}\label{orders}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+./40k.tex:167: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Top Speed}}{Top Speed}
+l.167 Speed}}{Top Speed}}
+                         \label{top-speed}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:167: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Top Speed}}{Top ...
+l.167 Speed}}{Top Speed}}
+                         \label{top-speed}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:167: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Top Speed}}{Top Speed}
+l.167 Speed}}{Top Speed}}\label{top-speed}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:173: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Maneuver and Fire}}{Maneuver and Fire}
+l.173 Fire}}{Maneuver and Fire}}
+                                \label{maneuver-and-fire}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 173--173
+|[]\T1/ptm/b/n/12 Maneuver and FireManeuver and
+ []
+
+./40k.tex:173: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Maneuver and Fir...
+l.173 Fire}}{Maneuver and Fire}}
+                                \label{maneuver-and-fire}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:173: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Maneuver and Fire}}{Maneuver ...
+l.173 ...euver and Fire}}\label{maneuver-and-fire}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 181.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 181.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[2
+
+]
+./40k.tex:181: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Open Fire}}{Open Fire}
+l.181 Fire}}{Open Fire}}
+                        \label{open-fire}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:181: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Open Fire}}{Open...
+l.181 Fire}}{Open Fire}}
+                        \label{open-fire}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:181: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Open Fire}}{Open Fire}
+l.181 Fire}}{Open Fire}}\label{open-fire}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:188: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Close Assault (Charge)}}{Close Assault ...
+l.188 (Charge)}}{Close Assault (Charge)}}
+                                         \label{close-assault-charge}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:188: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Close Assault (C...
+l.188 (Charge)}}{Close Assault (Charge)}}
+                                         \label{close-assault-charge}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:188: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Close Assault (Charge)}}{Clos...
+l.188 ...lt (Charge)}}\label{close-assault-charge}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:197: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Request Support}}{Request Support}
+l.197 Support}}{Request Support}}
+                                 \label{request-support}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:197: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Request Support}...
+l.197 Support}}{Request Support}}
+                                 \label{request-support}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:197: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Request Support}}{Request Sup...
+l.197 ...{Request Support}}\label{request-support}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:213: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Tactical Coordination}}{Tactical Coordi...
+l.213 Coordination}}{Tactical Coordination}}
+                                            \label{tactical-coordination}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:213: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Tactical Coordin...
+l.213 Coordination}}{Tactical Coordination}}
+                                            \label{tactical-coordination}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:213: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Tactical Coordination}}{Tacti...
+l.213 ...ordination}}\label{tactical-coordination}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+./40k.tex:221: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Ambush Fire (Reaction Order)}}{Ambush F...
+l.221 Order)}}{Ambush Fire (Reaction Order)}}
+                                             \label{ambush-fire-reaction-order}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+|[]\T1/ptm/b/n/12 Ambush Fire (Re-ac-tion Or-
+ []
+
+./40k.tex:221: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Ambush Fire (Rea...
+l.221 Order)}}{Ambush Fire (Reaction Order)}}
+                                             \label{ambush-fire-reaction-order}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:221: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Ambush Fire (Reaction Order)}...
+l.221 ...rder)}}\label{ambush-fire-reaction-order}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:227: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Reserve Move (Reaction Order)}}{Reserve...
+l.227 Order)}}{Reserve Move (Reaction Order)}}
+                                              \label{reserve-move-reaction-o...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+|[]\T1/ptm/b/n/12 Reserve Move (Re-ac-tion Or-
+ []
+
+./40k.tex:227: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Reserve Move (Re...
+l.227 Order)}}{Reserve Move (Reaction Order)}}
+                                              \label{reserve-move-reaction-o...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:227: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Reserve Move (Reaction Order)...
+l.227 ...der)}}\label{reserve-move-reaction-order}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:246: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Assault Phase}}{Assault Phase}
+l.246 Phase}}{Assault Phase}}
+                             \label{assault-phase}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:246: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Assault Phase}}{...
+l.246 Phase}}{Assault Phase}}
+                             \label{assault-phase}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:246: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Assault Phase}}{...
+l.246 Phase}}{Assault Phase}}
+                             \label{assault-phase}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:246: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Assault Phase}}{...
+l.246 Phase}}{Assault Phase}}
+                             \label{assault-phase}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:246: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Assault Phase}}{...
+l.246 Phase}}{Assault Phase}}
+                             \label{assault-phase}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:246: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Assault Phase}}{Assault Phase}
+l.246 Phase}}{Assault Phase}}\label{assault-phase}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:251: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Rally \& End turn}}{Rally \& End turn}
+l.251 turn}}{Rally \& End turn}}
+                                \label{rally-end-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:251: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Rally \& End tur...
+l.251 turn}}{Rally \& End turn}}
+                                \label{rally-end-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:251: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Rally \& End tur...
+l.251 turn}}{Rally \& End turn}}
+                                \label{rally-end-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:251: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Rally \& End tur...
+l.251 turn}}{Rally \& End turn}}
+                                \label{rally-end-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:251: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Rally \& End tur...
+l.251 turn}}{Rally \& End turn}}
+                                \label{rally-end-turn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:251: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Rally \& End turn}}{Rally \& ...
+l.251 ...Rally \& End turn}}\label{rally-end-turn}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 262.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 262.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[3]
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 262.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 262.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[4
+
+]
+Chapter 2.
+./40k.tex:263: Undefined control sequence.
+<argument> ...rline {\thechapter }\texorpdfstring 
+                                                  {\textbf {Core Rules}}{Cor...
+l.263 Rules}}{Core Rules}}
+                          \label{core-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:263: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Core Rules}}{Cor...
+l.263 Rules}}{Core Rules}}
+                          \label{core-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:263: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Core Rules}}{Cor...
+l.263 Rules}}{Core Rules}}
+                          \label{core-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:263: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Core Rules}}{Core Rules}
+l.263 Rules}}{Core Rules}}
+                          \label{core-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:263: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Rally \& End turn}}{Rally \& ...
+l.263 Rules}}{Core Rules}}\label{core-rules}
+                                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:266: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Deep Strike}}{Deep Strike}
+l.266 Strike}}{Deep Strike}}
+                            \label{deep-strike}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:266: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Deep Strike}}{De...
+l.266 Strike}}{Deep Strike}}
+                            \label{deep-strike}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:266: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Deep Strike}}{De...
+l.266 Strike}}{Deep Strike}}
+                            \label{deep-strike}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:266: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Deep Strike}}{De...
+l.266 Strike}}{Deep Strike}}
+                            \label{deep-strike}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:266: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Deep Strike}}{De...
+l.266 Strike}}{Deep Strike}}
+                            \label{deep-strike}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:266: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Deep Strike}}{Deep Strike}
+l.266 Strike}}{Deep Strike}}\label{deep-strike}
+                                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:281: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Mishap}}{Mishap}
+l.281 ...\texorpdfstring{\textbf{Mishap}}{Mishap}}
+                                                  \label{mishap}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:281: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Mishap}}{Mishap}...
+l.281 ...\texorpdfstring{\textbf{Mishap}}{Mishap}}
+                                                  \label{mishap}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:281: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Mishap}}{Mishap}
+l.281 ...g{\textbf{Mishap}}{Mishap}}\label{mishap}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 290.
+(c:/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 290--293
+
+ []
+
+
+
+./40k.tex:297: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Flyers}}{Flyers}
+l.297 ...\texorpdfstring{\textbf{Flyers}}{Flyers}}
+                                                  \label{flyers}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:297: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Flyers}}{Flyers}
+l.297 ...\texorpdfstring{\textbf{Flyers}}{Flyers}}
+                                                  \label{flyers}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:297: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Flyers}}{Flyers}
+l.297 ...\texorpdfstring{\textbf{Flyers}}{Flyers}}
+                                                  \label{flyers}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:297: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Flyers}}{Flyers}
+l.297 ...\texorpdfstring{\textbf{Flyers}}{Flyers}}
+                                                  \label{flyers}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:297: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Flyers}}{Flyers}...
+l.297 ...\texorpdfstring{\textbf{Flyers}}{Flyers}}
+                                                  \label{flyers}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:297: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Flyers}}{Flyers}
+l.297 ...g{\textbf{Flyers}}{Flyers}}\label{flyers}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:307: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Go To Ground}}{Go To Ground}
+l.307 Ground}}{Go To Ground}}
+                             \label{go-to-ground}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:307: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Go To Ground}}{G...
+l.307 Ground}}{Go To Ground}}
+                             \label{go-to-ground}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:307: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Go To Ground}}{G...
+l.307 Ground}}{Go To Ground}}
+                             \label{go-to-ground}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:307: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Go To Ground}}{G...
+l.307 Ground}}{Go To Ground}}
+                             \label{go-to-ground}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:307: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Go To Ground}}{G...
+l.307 Ground}}{Go To Ground}}
+                             \label{go-to-ground}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:307: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Go To Ground}}{Go To Ground}
+l.307 Ground}}{Go To Ground}}\label{go-to-ground}
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:316: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Psychic Manifestation}}{Psychic Manifes...
+l.316 Manifestation}}{Psychic Manifestation}}
+                                             \label{psychic-manifestation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+|[]\T1/ptm/b/n/14.4 Psychic Man-i-fes-ta-tionPsychic
+ []
+
+./40k.tex:316: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Psychic Manifest...
+l.316 Manifestation}}{Psychic Manifestation}}
+                                             \label{psychic-manifestation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:316: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Psychic Manifest...
+l.316 Manifestation}}{Psychic Manifestation}}
+                                             \label{psychic-manifestation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:316: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Psychic Manifest...
+l.316 Manifestation}}{Psychic Manifestation}}
+                                             \label{psychic-manifestation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:316: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Psychic Manifest...
+l.316 Manifestation}}{Psychic Manifestation}}
+                                             \label{psychic-manifestation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:316: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Psychic Manifestation}}{Psych...
+l.316 ...ifestation}}\label{psychic-manifestation}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 324.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 324.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[5
+
+]
+./40k.tex:324: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Support Strikes}}{Support Strikes}
+l.324 Strikes}}{Support Strikes}}
+                                 \label{support-strikes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+|[]\T1/ptm/b/n/14.4 Support StrikesSupport
+ []
+
+./40k.tex:324: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Support Strikes}...
+l.324 Strikes}}{Support Strikes}}
+                                 \label{support-strikes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:324: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Support Strikes}...
+l.324 Strikes}}{Support Strikes}}
+                                 \label{support-strikes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:324: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Support Strikes}...
+l.324 Strikes}}{Support Strikes}}
+                                 \label{support-strikes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:324: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Support Strikes}...
+l.324 Strikes}}{Support Strikes}}
+                                 \label{support-strikes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:324: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Support Strikes}}{Support Str...
+l.324 ...{Support Strikes}}\label{support-strikes}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:330: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Long-Range Bombardment}}{Long-Range Bom...
+l.330 Bombardment}}{Long-Range Bombardment}}
+                                            \label{long-range-bombardment}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+|[]\T1/ptm/b/n/12 Long-Range Bom-bard-mentLong-
+ []
+
+./40k.tex:330: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Long-Range Bomba...
+l.330 Bombardment}}{Long-Range Bombardment}}
+                                            \label{long-range-bombardment}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:330: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Long-Range Bombardment}}{Long...
+l.330 ...mbardment}}\label{long-range-bombardment}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:338: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Death From The Skies}}{Death From The S...
+l.338 Skies}}{Death From The Skies}}
+                                    \label{death-from-the-skies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:338: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Death From The S...
+l.338 Skies}}{Death From The Skies}}
+                                    \label{death-from-the-skies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:338: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Death From The Skies}}{Death ...
+l.338 ...m The Skies}}\label{death-from-the-skies}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+./40k.tex:361: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Sweeping Advance}}{Sweeping Advance}
+l.361 Advance}}{Sweeping Advance}}
+                                  \label{sweeping-advance}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+|[]\T1/ptm/b/n/14.4 Sweeping Ad-vanceSweeping
+ []
+
+./40k.tex:361: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Sweeping Advance...
+l.361 Advance}}{Sweeping Advance}}
+                                  \label{sweeping-advance}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:361: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Sweeping Advance...
+l.361 Advance}}{Sweeping Advance}}
+                                  \label{sweeping-advance}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:361: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Sweeping Advance...
+l.361 Advance}}{Sweeping Advance}}
+                                  \label{sweeping-advance}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:361: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Sweeping Advance...
+l.361 Advance}}{Sweeping Advance}}
+                                  \label{sweeping-advance}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:361: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Sweeping Advance}}{Sweeping A...
+l.361 ...weeping Advance}}\label{sweeping-advance}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:367: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Restrain or Pursue}}{Restrain or Pursue}
+l.367 Pursue}}{Restrain or Pursue}}
+                                   \label{restrain-or-pursue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:367: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Restrain or Purs...
+l.367 Pursue}}{Restrain or Pursue}}
+                                   \label{restrain-or-pursue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:367: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Restrain or Pursue}}{Restrain...
+l.367 ...ain or Pursue}}\label{restrain-or-pursue}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:373: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {CAUGHT!}}{CAUGHT!}
+l.373 ...exorpdfstring{\textbf{CAUGHT!}}{CAUGHT!}}
+                                                  \label{caught}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:373: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {CAUGHT!}}{CAUGHT...
+l.373 ...exorpdfstring{\textbf{CAUGHT!}}{CAUGHT!}}
+                                                  \label{caught}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:373: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {CAUGHT!}}{CAUGHT!}
+l.373 ...\textbf{CAUGHT!}}{CAUGHT!}}\label{caught}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:381: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Move Fleeing Unit}}{Move Fleeing Unit}
+l.381 Unit}}{Move Fleeing Unit}}
+                                \label{move-fleeing-unit}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:381: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Move Fleeing Uni...
+l.381 Unit}}{Move Fleeing Unit}}
+                                \label{move-fleeing-unit}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:381: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Move Fleeing Unit}}{Move Flee...
+l.381 ...e Fleeing Unit}}\label{move-fleeing-unit}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:386: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Follow-up move}}{Follow-up move}
+l.386 move}}{Follow-up move}}
+                             \label{follow-up-move}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:386: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Follow-up move}}...
+l.386 move}}{Follow-up move}}
+                             \label{follow-up-move}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:386: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Follow-up move}}{Follow-up move}
+l.386 ...}}{Follow-up move}}\label{follow-up-move}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 394.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 394.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[6]
+./40k.tex:394: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Tank Riders}}{Tank Riders}
+l.394 Riders}}{Tank Riders}}
+                            \label{tank-riders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:394: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Tank Riders}}{Ta...
+l.394 Riders}}{Tank Riders}}
+                            \label{tank-riders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:394: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Tank Riders}}{Ta...
+l.394 Riders}}{Tank Riders}}
+                            \label{tank-riders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:394: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Tank Riders}}{Ta...
+l.394 Riders}}{Tank Riders}}
+                            \label{tank-riders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:394: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Tank Riders}}{Ta...
+l.394 Riders}}{Tank Riders}}
+                            \label{tank-riders}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:394: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Tank Riders}}{Tank Riders}
+l.394 Riders}}{Tank Riders}}\label{tank-riders}
+                                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:414: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Transports}}{Transports}
+l.414 ...fstring{\textbf{Transports}}{Transports}}
+                                                  \label{transports}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:414: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Transports}}{Tra...
+l.414 ...fstring{\textbf{Transports}}{Transports}}
+                                                  \label{transports}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:414: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Transports}}{Tra...
+l.414 ...fstring{\textbf{Transports}}{Transports}}
+                                                  \label{transports}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:414: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Transports}}{Tra...
+l.414 ...fstring{\textbf{Transports}}{Transports}}
+                                                  \label{transports}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:414: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Transports}}{Tra...
+l.414 ...fstring{\textbf{Transports}}{Transports}}
+                                                  \label{transports}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:414: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Transports}}{Transports}
+l.414 ...ansports}}{Transports}}\label{transports}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+./40k.tex:422: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Wound Allocation}}{Wound Allocation}
+l.422 Allocation}}{Wound Allocation}}
+                                     \label{wound-allocation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:422: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Wound Allocation...
+l.422 Allocation}}{Wound Allocation}}
+                                     \label{wound-allocation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:422: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Wound Allocation...
+l.422 Allocation}}{Wound Allocation}}
+                                     \label{wound-allocation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:422: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Wound Allocation...
+l.422 Allocation}}{Wound Allocation}}
+                                     \label{wound-allocation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:422: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Wound Allocation...
+l.422 Allocation}}{Wound Allocation}}
+                                     \label{wound-allocation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:422: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Wound Allocation}}{Wound Allo...
+l.422 ...ound Allocation}}\label{wound-allocation}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 432.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 432.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[7]
+Chapter 3.
+./40k.tex:433: Undefined control sequence.
+<argument> ...rline {\thechapter }\texorpdfstring 
+                                                  {\textbf {Force Organizati...
+l.433 Organization}}{Force Organization}}
+                                         \label{force-organization}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:433: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Force Organizati...
+l.433 Organization}}{Force Organization}}
+                                         \label{force-organization}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:433: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Force Organizati...
+l.433 Organization}}{Force Organization}}
+                                         \label{force-organization}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:433: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Force Organization}}{Force Organization}
+l.433 Organization}}{Force Organization}}
+                                         \label{force-organization}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:433: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Wound Allocation}}{Wound Allo...
+l.433 ... Organization}}\label{force-organization}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:441: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Frontline Assets}}{Frontline Assets}
+l.441 Assets}}{Frontline Assets}}
+                                 \label{frontline-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 441--441
+|[]\T1/ptm/b/n/14.4 Frontline As-setsFrontline As-
+ []
+
+./40k.tex:441: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Frontline Assets...
+l.441 Assets}}{Frontline Assets}}
+                                 \label{frontline-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:441: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Frontline Assets...
+l.441 Assets}}{Frontline Assets}}
+                                 \label{frontline-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:441: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Frontline Assets...
+l.441 Assets}}{Frontline Assets}}
+                                 \label{frontline-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:441: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Frontline Assets...
+l.441 Assets}}{Frontline Assets}}
+                                 \label{frontline-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:441: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Frontline Assets}}{Frontline ...
+l.441 ...rontline Assets}}\label{frontline-assets}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:446: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {HQ}}{HQ}
+l.446 ...section{\texorpdfstring{\textbf{HQ}}{HQ}}
+                                                  \label{hq}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:446: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {HQ}}{HQ}}{\thepa...
+l.446 ...section{\texorpdfstring{\textbf{HQ}}{HQ}}
+                                                  \label{hq}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:446: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {HQ}}{HQ}
+l.446 ...exorpdfstring{\textbf{HQ}}{HQ}}\label{hq}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:453: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Troops}}{Troops}
+l.453 ...\texorpdfstring{\textbf{Troops}}{Troops}}
+                                                  \label{troops}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:453: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Troops}}{Troops}...
+l.453 ...\texorpdfstring{\textbf{Troops}}{Troops}}
+                                                  \label{troops}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:453: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Troops}}{Troops}
+l.453 ...g{\textbf{Troops}}{Troops}}\label{troops}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+./40k.tex:461: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Support Assets}}{Support Assets}
+l.461 Assets}}{Support Assets}}
+                               \label{support-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:461: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Support Assets}}...
+l.461 Assets}}{Support Assets}}
+                               \label{support-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:461: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Support Assets}}...
+l.461 Assets}}{Support Assets}}
+                               \label{support-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:461: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Support Assets}}...
+l.461 Assets}}{Support Assets}}
+                               \label{support-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:461: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Support Assets}}...
+l.461 Assets}}{Support Assets}}
+                               \label{support-assets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:461: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Support Assets}}{Support Assets}
+l.461 ...}}{Support Assets}}\label{support-assets}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:468: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Fast Attack}}{Fast Attack}
+l.468 Attack}}{Fast Attack}}
+                            \label{fast-attack}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:468: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Fast Attack}}{Fa...
+l.468 Attack}}{Fast Attack}}
+                            \label{fast-attack}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:468: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Fast Attack}}{Fast Attack}
+l.468 Attack}}{Fast Attack}}\label{fast-attack}
+                                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:474: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Heavy Support}}{Heavy Support}
+l.474 Support}}{Heavy Support}}
+                               \label{heavy-support}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:474: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Heavy Support}}{...
+l.474 Support}}{Heavy Support}}
+                               \label{heavy-support}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:474: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Heavy Support}}{Heavy Support}
+l.474 ...rt}}{Heavy Support}}\label{heavy-support}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 486.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 486.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[8
+
+]
+./40k.tex:486: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Fortifications}}{Fortifications}
+l.486 ...\textbf{Fortifications}}{Fortifications}}
+                                                  \label{fortifications}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:486: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Fortifications}}...
+l.486 ...\textbf{Fortifications}}{Fortifications}}
+                                                  \label{fortifications}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:486: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Fortifications}}{Fortifications}
+l.486 ...}}{Fortifications}}\label{fortifications}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:493: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Additional Fire Support}}{Additional Fi...
+l.493 Support}}{Additional Fire Support}}
+                                         \label{additional-fire-support}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 493--493
+|[]\T1/ptm/b/n/12 Additional Fire Sup-portAdditional
+ []
+
+./40k.tex:493: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Additional Fire ...
+l.493 Support}}{Additional Fire Support}}
+                                         \label{additional-fire-support}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:493: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Additional Fire Support}}{Add...
+l.493 ... Support}}\label{additional-fire-support}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:501: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Lords of War}}{Lords of War}
+l.501 War}}{Lords of War}}
+                          \label{lords-of-war}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:501: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Lords of War}}{L...
+l.501 War}}{Lords of War}}
+                          \label{lords-of-war}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:501: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Lords of War}}{Lords of War}
+l.501 War}}{Lords of War}}\label{lords-of-war}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:507: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Restricted Units}}{Restricted Units}
+l.507 Units}}{Restricted Units}}
+                                \label{restricted-units}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:507: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Restricted Units...
+l.507 Units}}{Restricted Units}}
+                                \label{restricted-units}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:507: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Restricted Units}}{Restricted...
+l.507 ...estricted Units}}\label{restricted-units}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--527
+
+ []
+
+
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 530.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 530.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[9
+
+]
+Chapter 4.
+./40k.tex:530: Undefined control sequence.
+<argument> ...rline {\thechapter }\texorpdfstring 
+                                                  {\textbf {Scenarios}}{Scen...
+l.530 ...pdfstring{\textbf{Scenarios}}{Scenarios}}
+                                                  \label{scenarios}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:530: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Scenarios}}{Scen...
+l.530 ...pdfstring{\textbf{Scenarios}}{Scenarios}}
+                                                  \label{scenarios}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:530: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Scenarios}}{Scen...
+l.530 ...pdfstring{\textbf{Scenarios}}{Scenarios}}
+                                                  \label{scenarios}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:530: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Scenarios}}{Scenarios}
+l.530 ...pdfstring{\textbf{Scenarios}}{Scenarios}}
+                                                  \label{scenarios}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:530: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Restricted Units}}{Restricted...
+l.530 ...{Scenarios}}{Scenarios}}\label{scenarios}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:532: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Objectives}}{Objectives}
+l.532 ...fstring{\textbf{Objectives}}{Objectives}}
+                                                  \label{objectives}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:532: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Objectives}}{Obj...
+l.532 ...fstring{\textbf{Objectives}}{Objectives}}
+                                                  \label{objectives}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:532: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Objectives}}{Objectives}
+l.532 ...jectives}}{Objectives}}\label{objectives}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:543: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Out-Scouted}}{Out-Scouted}
+l.543 ...tring{\textbf{Out-Scouted}}{Out-Scouted}}
+                                                  \label{out-scouted}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:543: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Out-Scouted}}{Ou...
+l.543 ...tring{\textbf{Out-Scouted}}{Out-Scouted}}
+                                                  \label{out-scouted}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:543: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Out-Scouted}}{Out-Scouted}
+l.543 ...couted}}{Out-Scouted}}\label{out-scouted}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:549: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Reconnaissance Units}}{Reconnaissance U...
+l.549 Units}}{Reconnaissance Units}}
+                                    \label{reconnaissance-units}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--549
+|[]\T1/ptm/b/n/12 Reconnaissance
+ []
+
+./40k.tex:549: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Reconnaissance U...
+l.549 Units}}{Reconnaissance Units}}
+                                    \label{reconnaissance-units}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:549: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Reconnaissance Units}}{Reconn...
+l.549 ...sance Units}}\label{reconnaissance-units}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--559
+
+ []
+
+
+
+./40k.tex:563: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Victory Conditions}}{Victory Conditions}
+l.563 Conditions}}{Victory Conditions}}
+                                       \label{victory-conditions}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 563--563
+|[]\T1/ptm/b/n/12 Victory Con-di-tionsVictory Con-di-
+ []
+
+./40k.tex:563: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Victory Conditio...
+l.563 Conditions}}{Victory Conditions}}
+                                       \label{victory-conditions}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:563: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Victory Conditions}}{Victory ...
+l.563 ...ry Conditions}}\label{victory-conditions}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:571: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {VP Limits}}{VP Limits}
+l.571 Limits}}{VP Limits}}
+                          \label{vp-limits}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:571: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {VP Limits}}{VP L...
+l.571 Limits}}{VP Limits}}
+                          \label{vp-limits}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:571: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {VP Limits}}{VP Limits}
+l.571 Limits}}{VP Limits}}\label{vp-limits}
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:582: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Turn 0}}{Turn 0}
+l.582 ...\texorpdfstring{\textbf{Turn 0}}{Turn 0}}
+                                                  \label{turn-0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:582: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Turn 0}}{Turn 0}...
+l.582 ...\texorpdfstring{\textbf{Turn 0}}{Turn 0}}
+                                                  \label{turn-0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:582: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Turn 0}}{Turn 0}
+l.582 ...g{\textbf{Turn 0}}{Turn 0}}\label{turn-0}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 589.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 589.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[10
+
+]
+./40k.tex:589: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Counter Attack} \url {https://docs.goog...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...ring {\textbf {Counter Attack} \url 
+                                                  {https://docs.google.com/d...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Missing $ inserted.
+<inserted text> 
+                $
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 589.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 589.
+./40k.tex:589: Extra }, or forgotten $.
+<argument> ...I8CmhyWcPafnQzA84s/edit?usp=sharing}
+                                                  }{Counter Attack https://d...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./40k.tex:589: Extra }, or forgotten $.
+<argument> ...8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  {Counter Attack https://do...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./40k.tex:589: Missing $ inserted.
+<inserted text> 
+                $
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--589
+|[]\T1/ptm/b/n/14.4 Counter At-tack
+ []
+
+
+Overfull \hbox (461.85551pt too wide) in paragraph at lines 589--589
+\T1/ptm/b/n/14.4 https://docs.google.com/document/d/1C$[]\OT1/cmr/m/n/14.4 4\OML/cmm/m/it/14.4 dwA\OT1/cmr/m/n/14.4 319858\OML/cmm/m/it/14.4 NZs\OT1/cmr/m/n/14.4 3\OML/cmm/m/it/14.4 uMV[]\OT1/cmr/m/n/14.4 7\OML/cmm/m/it/14.4 p\OT1/cmr/m/n/14.4 7\OML/cmm/m/it/14.4 I\OT1/cmr/m/n/14.4 8\OML/cmm/m/it/14.4 CmhyWcPafnQzA\OT1/cmr/m/n/14.4 84\OML/cmm/m/it/14.4 s=edit\OT1/cmr/m/n/14.4 ?\OML/cmm/m/it/14.4 usp \OT1/cmr/m/n/14.4 =
+ []
+
+
+Overfull \hbox (702.6712pt too wide) in paragraph at lines 589--589
+\OML/cmm/m/it/14.4 sharing[][]$ 
+ []
+
+./40k.tex:589: Missing } inserted.
+<inserted text> 
+                }
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./40k.tex:589: Missing } inserted.
+<inserted text> 
+                }
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Counter Attack} ...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...ring {\textbf {Counter Attack} \url 
+                                                  {https://docs.google.com/d...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Counter Attack} ...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...ring {\textbf {Counter Attack} \url 
+                                                  {https://docs.google.com/d...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Counter Attack} ...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...ring {\textbf {Counter Attack} \url 
+                                                  {https://docs.google.com/d...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Counter Attack} ...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+<argument> ...ring {\textbf {Counter Attack} \url 
+                                                  {https://docs.google.com/d...
+l.589 ...27p7I8CmhyWcPafnQzA84s/edit?usp=sharing}}
+                                                  \label{counter-attack-http...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Counter Attack} \url {https:/...
+l.589 ...umv_27p7i8cmhywcpafnqza84sedituspsharing}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:589: Undefined control sequence.
+\@currentlabelname ...extbf {Counter Attack} \url 
+                                                  {https://docs.google.com/d...
+l.589 ...umv_27p7i8cmhywcpafnqza84sedituspsharing}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<./img/Counter-Attack.png, id=60, 970.3753pt x 674.52pt>
+File: ./img/Counter-Attack.png Graphic file (type png)
+<use ./img/Counter-Attack.png>
+Package pdftex.def Info: ./img/Counter-Attack.png  used on input line 593.
+(pdftex.def)             Requested size: 970.37294pt x 674.51836pt.
+
+
+
+
+./40k.tex:654: Missing $ inserted.
+<inserted text> 
+                $
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 654.
+./40k.tex:654: Extra }, or forgotten $.
+<inserted text> ...YWCPAFNQZA84S/EDIT?USP=SHARING}
+                                                  }{COUNTER ATTACK HTTPS://D...
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./40k.tex:654: Extra }, or forgotten $.
+<inserted text> ...WCPAFNQZA84S/EDIT?USP=SHARING}}
+                                                  {COUNTER ATTACK HTTPS://DO...
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./40k.tex:654: Extra }, or forgotten $.
+\MakeUppercase    ...ext@case@aux {upper}{#1}{#2}}
+                                                  
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./40k.tex:654: Extra }, or forgotten $.
+\@thehead ->{\slshape \rightmark }
+                                  \hfil \thepage 
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./40k.tex:654: Extra }, or forgotten $.
+\@outputpage ...or \hb@xt@ \textwidth {\@thehead }
+                                                  \color@endbox }\dp \@tempb...
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./40k.tex:654: Missing $ inserted.
+<inserted text> 
+                $
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./40k.tex:654: Missing } inserted.
+<inserted text> 
+                }
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./40k.tex:654: Missing } inserted.
+<inserted text> 
+                }
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./40k.tex:654: Missing } inserted.
+<inserted text> 
+                }
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./40k.tex:654: Missing } inserted.
+<inserted text> 
+                }
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./40k.tex:654: Missing } inserted.
+<inserted text> 
+                }
+l.654 \chapter
+              {\texorpdfstring{\textbf{Experimental
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (1067.47992pt too wide) has occurred while \output is active
+\T1/ptm/m/sl/10 4.1.  \T1/ptm/b/sl/10 COUNTER ATTACK \T1/ptm/m/sl/10 HTTPS://DOCS.GOOGLE.COM/DOCUMENT/D/1C$[]\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 DWA\OT1/cmr/m/n/10 319858\OML/cmm/m/it/10 NZS\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 UMV[]\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 I\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 CMHYWCPAFNQZA\OT1/cmr/m/n/10 84\OML/cmm/m/it/10 S=EDIT\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 USP \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 SHARING[] \OT1/cmr/m/n/10 11$
+ []
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 654.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 654.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[11 <./img/Counter-Attack.png>]
+Chapter 5.
+./40k.tex:655: Undefined control sequence.
+<argument> ...rline {\thechapter }\texorpdfstring 
+                                                  {\textbf {Experimental Rul...
+l.655 Rules}}{Experimental Rules}}
+                                  \label{experimental-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:655: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Experimental Rul...
+l.655 Rules}}{Experimental Rules}}
+                                  \label{experimental-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:655: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Experimental Rul...
+l.655 Rules}}{Experimental Rules}}
+                                  \label{experimental-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:655: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Experimental Rules}}{Experimental Rules}
+l.655 Rules}}{Experimental Rules}}
+                                  \label{experimental-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:655: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Counter Attack} \url {https:/...
+l.655 ...imental Rules}}\label{experimental-rules}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:655: Undefined control sequence.
+\@currentlabelname ...extbf {Counter Attack} \url 
+                                                  {https://docs.google.com/d...
+l.655 ...imental Rules}}\label{experimental-rules}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:657: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Barrage}}{Barrage}
+l.657 ...exorpdfstring{\textbf{Barrage}}{Barrage}}
+                                                  \label{barrage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:657: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Barrage}}{Barrage}
+l.657 ...exorpdfstring{\textbf{Barrage}}{Barrage}}
+                                                  \label{barrage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:657: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Barrage}}{Barrage}
+l.657 ...exorpdfstring{\textbf{Barrage}}{Barrage}}
+                                                  \label{barrage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:657: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Barrage}}{Barrage}
+l.657 ...exorpdfstring{\textbf{Barrage}}{Barrage}}
+                                                  \label{barrage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:657: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Barrage}}{Barrag...
+l.657 ...exorpdfstring{\textbf{Barrage}}{Barrage}}
+                                                  \label{barrage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:657: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Barrage}}{Barrage}
+l.657 ...textbf{Barrage}}{Barrage}}\label{barrage}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+./40k.tex:688: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Templates}}{Templates}
+l.688 ...pdfstring{\textbf{Templates}}{Templates}}
+                                                  \label{templates}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:688: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Templates}}{Temp...
+l.688 ...pdfstring{\textbf{Templates}}{Templates}}
+                                                  \label{templates}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:688: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Templates}}{Temp...
+l.688 ...pdfstring{\textbf{Templates}}{Templates}}
+                                                  \label{templates}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:688: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Templates}}{Temp...
+l.688 ...pdfstring{\textbf{Templates}}{Templates}}
+                                                  \label{templates}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:688: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Templates}}{Temp...
+l.688 ...pdfstring{\textbf{Templates}}{Templates}}
+                                                  \label{templates}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:688: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Templates}}{Templates}
+l.688 ...{Templates}}{Templates}}\label{templates}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 693.
+(c:/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+./40k.tex:712: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Point Blank}}{Point Blank}
+l.712 Blank}}{Point Blank}}
+                           \label{point-blank}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:712: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Point Blank}}{Po...
+l.712 Blank}}{Point Blank}}
+                           \label{point-blank}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:712: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Point Blank}}{Po...
+l.712 Blank}}{Point Blank}}
+                           \label{point-blank}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:712: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Point Blank}}{Po...
+l.712 Blank}}{Point Blank}}
+                           \label{point-blank}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:712: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Point Blank}}{Po...
+l.712 Blank}}{Point Blank}}
+                           \label{point-blank}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:712: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Point Blank}}{Point Blank}
+l.712 Blank}}{Point Blank}}\label{point-blank}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 719.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 719.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[12
+
+{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+./40k.tex:719: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Fearless}}{Fearless}
+l.719 ...orpdfstring{\textbf{Fearless}}{Fearless}}
+                                                  \label{fearless}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:719: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Fearless}}{Fearl...
+l.719 ...orpdfstring{\textbf{Fearless}}{Fearless}}
+                                                  \label{fearless}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:719: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Fearless}}{Fearl...
+l.719 ...orpdfstring{\textbf{Fearless}}{Fearless}}
+                                                  \label{fearless}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:719: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Fearless}}{Fearl...
+l.719 ...orpdfstring{\textbf{Fearless}}{Fearless}}
+                                                  \label{fearless}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:719: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Fearless}}{Fearl...
+l.719 ...orpdfstring{\textbf{Fearless}}{Fearless}}
+                                                  \label{fearless}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:719: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Fearless}}{Fearless}
+l.719 ...tbf{Fearless}}{Fearless}}\label{fearless}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:729: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Re-rolls}}{Re-rolls}
+l.729 ...orpdfstring{\textbf{Re-rolls}}{Re-rolls}}
+                                                  \label{re-rolls}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:729: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Re-rolls}}{Re-ro...
+l.729 ...orpdfstring{\textbf{Re-rolls}}{Re-rolls}}
+                                                  \label{re-rolls}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:729: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Re-rolls}}{Re-ro...
+l.729 ...orpdfstring{\textbf{Re-rolls}}{Re-rolls}}
+                                                  \label{re-rolls}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:729: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Re-rolls}}{Re-ro...
+l.729 ...orpdfstring{\textbf{Re-rolls}}{Re-rolls}}
+                                                  \label{re-rolls}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:729: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Re-rolls}}{Re-ro...
+l.729 ...orpdfstring{\textbf{Re-rolls}}{Re-rolls}}
+                                                  \label{re-rolls}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:729: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Re-rolls}}{Re-rolls}
+l.729 ...tbf{Re-rolls}}{Re-rolls}}\label{re-rolls}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:735: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Allies}}{Allies}
+l.735 ...\texorpdfstring{\textbf{Allies}}{Allies}}
+                                                  \label{allies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:735: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Allies}}{Allies}
+l.735 ...\texorpdfstring{\textbf{Allies}}{Allies}}
+                                                  \label{allies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:735: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Allies}}{Allies}
+l.735 ...\texorpdfstring{\textbf{Allies}}{Allies}}
+                                                  \label{allies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:735: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Allies}}{Allies}
+l.735 ...\texorpdfstring{\textbf{Allies}}{Allies}}
+                                                  \label{allies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:735: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Allies}}{Allies}...
+l.735 ...\texorpdfstring{\textbf{Allies}}{Allies}}
+                                                  \label{allies}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:735: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Allies}}{Allies}
+l.735 ...g{\textbf{Allies}}{Allies}}\label{allies}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 744.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 744.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[13
+
+]
+Chapter 6.
+./40k.tex:745: Undefined control sequence.
+<argument> ...rline {\thechapter }\texorpdfstring 
+                                                  {\textbf {Codex Changes}}{...
+l.745 Changes}}{Codex Changes}}
+                               \label{codex-changes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:745: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Codex Changes}}{...
+l.745 Changes}}{Codex Changes}}
+                               \label{codex-changes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:745: Undefined control sequence.
+<argument> ...chapter . \ \fi \fi \texorpdfstring 
+                                                  {\textbf {Codex Changes}}{...
+l.745 Changes}}{Codex Changes}}
+                               \label{codex-changes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:745: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Codex Changes}}{Codex Changes}
+l.745 Changes}}{Codex Changes}}
+                               \label{codex-changes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:745: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Allies}}{Allies}
+l.745 ...es}}{Codex Changes}}\label{codex-changes}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:747: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Tyranids}}{Tyranids}
+l.747 ...orpdfstring{\textbf{Tyranids}}{Tyranids}}
+                                                  \label{tyranids}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:747: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Tyranids}}{Tyran...
+l.747 ...orpdfstring{\textbf{Tyranids}}{Tyranids}}
+                                                  \label{tyranids}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:747: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Tyranids}}{Tyran...
+l.747 ...orpdfstring{\textbf{Tyranids}}{Tyranids}}
+                                                  \label{tyranids}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:747: Undefined control sequence.
+<argument> ...\thesection . \ \fi \texorpdfstring 
+                                                  {\textbf {Tyranids}}{Tyran...
+l.747 ...orpdfstring{\textbf{Tyranids}}{Tyranids}}
+                                                  \label{tyranids}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:747: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Tyranids}}{Tyran...
+l.747 ...orpdfstring{\textbf{Tyranids}}{Tyranids}}
+                                                  \label{tyranids}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:747: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Tyranids}}{Tyranids}
+l.747 ...tbf{Tyranids}}{Tyranids}}\label{tyranids}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:750: Undefined control sequence.
+<argument> \texorpdfstring 
+                           {\textbf {Special Rules}}{Special Rules}
+l.750 Rules}}{Special Rules}}
+                             \label{special-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:750: Undefined control sequence.
+<argument> ...toclabel \ttl@a \fi \texorpdfstring 
+                                                  {\textbf {Special Rules}}{...
+l.750 Rules}}{Special Rules}}
+                             \label{special-rules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./40k.tex:750: Undefined control sequence.
+\@currentlabelname ->\texorpdfstring 
+                                     {\textbf {Special Rules}}{Special Rules}
+l.750 Rules}}{Special Rules}}\label{special-rules}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+
+
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 763.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 763.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[14
+
+
+] (./main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 92 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 13140 strings out of 473579
+ 267780 string characters out of 5732256
+ 631463 words of memory out of 5000000
+ 35784 multiletter control sequences out of 15000+600000
+ 585648 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 102i,9n,107p,552b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/dan/.texlive2024/texmf-var/fonts/pk/ljfour/public/bookhands/pgothb17.720pk> <c:/Users/dan/.texlive2024/texmf-var/fonts/pk/ljfour/public/bookhands/pgoth17.720pk><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (18 pages, 1454197 bytes).
+PDF statistics:
+ 181 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+

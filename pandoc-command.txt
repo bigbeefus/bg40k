@@ -1,0 +1,3 @@
+pandoc -t latex .\Battlegroup_40k_lite.md -o 40k.tex --template=template.tex --toc --number-sections
+
+--top-level-division=chapter

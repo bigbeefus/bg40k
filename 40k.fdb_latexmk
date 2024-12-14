@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1732290053.40041 "c:/Users/dan/Documents/40k-pandoc/40k.tex" "40k.pdf" "40k" 1732290055.03054 0
-  "40k.aux" 1732290054 30830 3eb4fd4a8bb113c11016894957d8fe31 "pdflatex"
-  "40k.tex" 1732290047 34432 b839fdded76c24e0034f5ebeb41fa032 ""
-  "40k.toc" 1732290054 5652 06d5749df8505739859478c97a6d90f2 "pdflatex"
+["pdflatex"] 1734218430.72094 "c:/Users/dan/Documents/bg40k/40k.tex" "40k.pdf" "40k" 1734218432.49622 0
+  "40k.aux" 1734218432 35383 6098942885dff3e048321c94a2239270 "pdflatex"
+  "40k.tex" 1734218430 36002 6c715184ea5f9fddc31ea4d384dd31f2 ""
+  "40k.toc" 1734218432 6556 636f661a29a20734c6f0cd3a11a32b8d "pdflatex"
   "c:/Users/dan/.texlive2024/texmf-var/fonts/pk/ljfour/public/bookhands/pgoth17.720pk" 1730214574 23024 5cbe74d9b3e2140af3e6492c10e2e1ec ""
   "c:/Users/dan/.texlive2024/texmf-var/fonts/pk/ljfour/public/bookhands/pgothb17.720pk" 1730232423 26228 769f1c4e983309e713b2cc4fb0c9a240 ""
-  "c:/Users/dan/Documents/40k-pandoc/40k.tex" 1732290047 34432 b839fdded76c24e0034f5ebeb41fa032 ""
+  "c:/Users/dan/Documents/bg40k/40k.tex" 1734218430 36002 6c715184ea5f9fddc31ea4d384dd31f2 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1729004877 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1729005858 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1729005169 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -203,10 +203,10 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729007844 5520473 0a78405a99dc248928f6ec2cb7e7998e ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1729009982 3325966 8e1d61bf8c5f8b6f00b798adb39fc2af ""
   "c:/texlive/2024/texmf.cnf" 1729007825 713 e69b156964470283e0530f5060668171 ""
-  "img/Counter-Attack.png" 1731085674 636650 e3e1dbe3fe2b92437f0ca4581a0046d9 ""
-  "img/DefenseLine.png" 1732288662 376307 56e0b21e832e0e3aed3277cb8a68b9f2 ""
-  "img/style/background.jpg" 1729371905 482579 f66317603a182a388fd4fcf80360523f ""
-  "img/style/bg40klogo.png" 1730171751 95695 7a2dc04776e0046b7dcf4870ef3ad11f ""
+  "img/Counter-Attack.png" 1733758507 636650 e3e1dbe3fe2b92437f0ca4581a0046d9 ""
+  "img/DefenseLine.png" 1733758507 376307 56e0b21e832e0e3aed3277cb8a68b9f2 ""
+  "img/style/background.jpg" 1733758507 482579 f66317603a182a388fd4fcf80360523f ""
+  "img/style/bg40klogo.png" 1733758507 95695 7a2dc04776e0046b7dcf4870ef3ad11f ""
   (generated)
   "40k.aux"
   "40k.log"

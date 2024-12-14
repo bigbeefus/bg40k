@@ -90,7 +90,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
-\author{Beta v1.0}
+\author{Beta v1.10}
 \date{\today}
 
 \begin{document}
@@ -104,17 +104,23 @@
 }
 \mainmatter
 \emph{Author's note:}\\
-\emph{The following is designed to amend any edition of the Warhammer
-40k rules.}
-
-\emph{These rules are written with 7th in mind, but are intentionally
-edition-agnostic where possible. Profiles and mechanics from any edition
+\emph{The following rules are written with a focus on the 7th edition of the 
+Warhammer 40k rules, but are intentionally era-agnostic where possible. 
+Profiles and mechanics from any edition
 may be used with minimal alteration in many cases.}
 
 \emph{The usual movement, shooting, assault phases are replaced with an
 interactive orders system instead. Voice of Command (Imperial Guard)
 orders are their own still, these rules will not refer to them unless
 explicitly stated otherwise}
+
+\emph{Templates have been replaced with a dice-based mechanic that attempts to preserve
+much of the feel of the old system.
+The wildly variable probabilities of success
+that come from individual model placement have been substituted with an approach 
+focused on numerical consistency and ease of play.
+This change has been made with much deliberation in the interest of a 
+smoother play experience.}
 
 \chapter{\texorpdfstring{\textbf{The Turn}}{The Turn}}\label{the-turn}
 
@@ -202,9 +208,9 @@ may carry out that order during the Charge Sub-phase instead.
 \subsection{\texorpdfstring{\textbf{Request
 Support}}{Request Support}}\label{request-support}
 
-HQ units, or any character with Scout may attempt to request off-map
-support. The unit targets an enemy, or a point on the map as if it were
-a shooting attack.
+HQ units, or any unit that purchases communications equipment  may request
+off-map support. The unit targets an enemy, or a point on the table within its 
+line of sight as if it were a shooting attack.
 
 The unit may select a single friendly off-map Barrage unit or selection
 taken from Additional Fire Support and attempt a communications test
@@ -278,32 +284,18 @@ Rules}}{Core Rules}}\label{core-rules}
 Units firing indirectly using Barrage use the following procedure
 instead. Indirect Fire must be resolved using a Request Support order
 
-Artillery units with a Barrage weapon may elect to be deployed off-map.
+Artillery units with a Barrage weapon may elect to be deployed off-map,
+outside of the play area.
 Units deployed this way may only fire indirectly, and may not draw Line
-of Sight to any unit on the table. They do not count toward a player's
-unit count.
+of Sight to any unit on the table.
+
+Barrage weapons fire as a Blast weapon with a -2 modifier to-hit.
+Barrage weapons that fire indirectly gain Pinning.
 
 A player may purchase a Pre-registered Target Point for 15 points as an
 Additional Fire Support choice. An artillery battery may choose to fire
-on this point without requiring a Request Support order. Spotter rounds
-targeting this area deviate as normal. Pre-registered Target Points are
-noted after Fortifications are deployed, but before any units are set
-up.
+on this point without requiring a Request Support order. 
 
-\textbf{1. Position Spotter Round}\\
-Place a spotter round marker anywhere on the table within the spotter's
-line of sight and within 48'' of the spotter.
-
-\textbf{2. Spotter Round Deviation}\\
-The spotter round scatters 3D6''. If a direct hit is rolled on the
-scatter die, remove the highest die. This distance may be reduced by the
-spotter's Ballistics Skill.
-
-\textbf{3. Fire for Effect}\\
-Resolve each attack from the battery with Pinning as the corresponding
-blast size, hitting the unit closest to the spotter round on 6+ instead
-of 4+. For cover, draw Line of Sight from the spotter round's marker.
-Blast modifiers apply.
 
 \section{\texorpdfstring{\textbf{Deep
 Strike}}{Deep Strike}}\label{deep-strike}
@@ -339,13 +331,9 @@ following options:
 
 \section{\texorpdfstring{\textbf{Fearless}}{Fearless}}\label{fearless}
 
-All Fearless non-vehicle units use the rules for And They Shall Know No
+All Infantry units with Fearless use the rules for And They Shall Know No
 Fear instead. If another rule would normally affect a fearless unit,
 that rule still applies to that unit.
-
-Monstrous Creatures that lose 25\% of their wounds in a single turn must
-take a Morale test as if it took 25\% casualties. If a Monstrous
-Creature would fail a pinning test, it falls back instead.
 
 \section{\texorpdfstring{\textbf{Flyers}}{Flyers}}\label{flyers}
 
@@ -483,12 +471,12 @@ embarked, d3 models are removed with no saves of any kind allowed.
 
 \section{\texorpdfstring{\textbf{Templates}}{Templates}}\label{templates}
 
-Templates use the following rolls to hit, noted as (number of dice) /
+Templates are replaced by the following rolls to hit, noted as (number of dice) /
 (to-hit):
 
 \begin{verbatim}
 Small Blast 3 / 4+  
-Large Blast 6 / 4+  
+Large Blast 5 / 4+  
 Flame       6 / 4+ (6” Range)
 \end{verbatim}
 
@@ -504,8 +492,8 @@ template weapons gain an additional +1 to hit.
 
 If a target unit is in cover, flame weapons get an additional +1 to hit
 
-If another unit is within 3'' of a target being hit by a blast weapon,
-or 6'' for a large blast, to-hit rolls of 1 hit that unit instead. If
+If another unit is within 3" of a target being hit by a blast weapon,
+or 6" for a large blast, to-hit rolls of 1 hit that unit instead. If
 multiple units are in the same whole number of inches apart
 (e.g.~between 3 and 4''), randomly allocate these hits to each unit.
 
@@ -516,11 +504,29 @@ not have the Assault Vehicle special rule if that transport did not move
 this turn. A transport that had infantry disembark this way may not move
 for the rest of the turn.
 
-\section{\texorpdfstring{\textbf{Vehicle
-Squadrons}}{Vehicle Squadrons}}\label{vehicle-squadrons}
+\section{\texorpdfstring{\textbf{Vehicles}}{Vehicles}}\label{vehicles}
 
-Vehicles may be taken as a squadron as part of Force Organization, and
-are treated as completely separate units otherwise.
+\subsection{\texorpdfstring{\textbf{Vehicle Leadership}}{Vehicle Leadership}}\label{vehicle-leadership}
+If a vehicle would be called upon to take a Leadership test, this value defaults to the
+Leadership Characteristic of any Troops profile from the same faction of the controlling player's choosing.
+This may be a Sergeant or similar option if one is available.
+
+\subsection{\texorpdfstring{\textbf{Vehicle Squadrons}}{Vehicle Squadrons}}\label{vehicle-squadrons}
+Vehicle squadrons are taken as a single Force Organization slot,
+and are treated as separate units for deployment, victory points, and otherwise.
+
+\subsection{\texorpdfstring{\textbf{Vehicles and Terrain}}{Vehicles and Terrain}}\label{vehicle-terrain}
+If a vehicle would intersect any difficult terrain during its path, it is counted as Slow until
+the end of the turn. (Do not roll for immobilized)
+
+Vehicles equipped with Dozer Blades may ignore difficult terrain.
+
+A Vehicle equipped with a Dozer Blade that moves at Combat Speed may shift any piece of 
+Battlefield Debris up to 1" or remove it entirely.
+
+\section{\texorpdfstring{\textbf{Terrain}}{Terrain}}\label{terrain}
+\subsection{\texorpdfstring{\textbf{Battlefield Debris}}{Battlefield Debris}}\label{battlefield-debris}
+Battlefield Debris may be treated as destructible terrain with AV14 and 1HP.
 
 \section{\texorpdfstring{\textbf{Wound
 Allocation}}{Wound Allocation}}\label{wound-allocation}
@@ -688,13 +694,12 @@ remaining on the table.
 Limits}}{VP Limits}}\label{vp-limits}
 
 Some scenarios will use a VP limit instead of the usual scoring. A
-recommended VP limit for a given scenario is triple the number of
-objectives on the field, plus the average unit count of both or all
-players.
+recommended VP limit for a given scenario is 1/100th the game limit.
+(10VP for 1000pts, 20 for 2000, etc.)
 
-When an objective is captured, VPs are awarded immediately. If a point
-that was previously captured is seized by an enemy, these VPs are not
-lost.
+Unless noted otherwise, VPs are awarded at the end of the game turn.
+
+Ex: Player A Controls 2 objectives and Player B controls 1. Player A gains 1vp at the start of their turn. (2-1=1)
 
 \section{\texorpdfstring{\textbf{Turn 0}}{Turn 0}}\label{turn-0}
 
@@ -725,7 +730,7 @@ Set up the terrain in any mutually agreed manner.
 
 \textbf{VICTORY}\\
 Victory Points are scored cumulatively until the VP limit is reached:\\
-Capturing an Objective (+3VP)\\
+Objective Markers (+1VP net)\\
 Enemy Unit slain (+1VP)\\
 Slay the Warlord (+1VP)\\
 Out-Scouted (+1VP)
@@ -741,8 +746,16 @@ deployment zone, the opponent automatically gets the opposite table
 corner.
 
 \textbf{2. Place Objectives}\\
-Place D3+2 objectives on the table. The side that chose deployment zones
-places the first, then both sides alternate placement.
+Starting with the player who chose table edges, players alternate placement
+of 3-5 objectives. Players may agree upon any number, or roll D3+2.
+
+Each player places their first objective anywhere within their table half and
+at least 12" from any table edge or the center line.
+
+Subsequent objectives may be placed within 6" of the center line and at least
+12" from any other objective or the table edge.
+
+
 
 \textbf{3. Reconnaissance Forces}\\
 Players alternate deploying all Recon units in the same order. These can
@@ -782,13 +795,12 @@ Set up the terrain in any mutually agreed manner.
 
 \textbf{VICTORY}\\
 Victory Points are scored cumulatively until the VP limit is reached:\\
-Capturing an Objective (+3VP)\\
+Objective Markers (+1VP net)\\
 Enemy Unit slain (+1VP)\\
 Slay the Warlord (+1VP)\\
 Out-Scouted (+1VP)
 
-The recommended VP limit is triple the number of objectives on the
-field, plus the average unit count of all players rounded down.
+The recommended VP limit is the game size/100.
 
 \textbf{RESERVES}\\
 Reserves enter the table in waves. During the game, one unit, plus one
@@ -813,7 +825,7 @@ The defender may select up to half of their units, plus any
 Fortifications to start. All other units are placed in reserves.
 
 \textbf{4. Defender's Reinforcements}\\
-From turn 5 onwards one wave will arrive each turn from his table edge,
+From turn 4 onwards one wave will arrive each turn from his table edge,
 until all units are on the tabletop.
 
 \textbf{5. Objective Placement}\\
@@ -843,12 +855,45 @@ Changes}}{Codex Changes}}\label{codex-changes}
 \section{\texorpdfstring{\textbf{Imperial
 Guard}}{Imperial Guard}}\label{imperial-guard}
 
+The following rules also apply to Renegades \& Heretics
+
 \textbf{Vox-Casters}: Units with a Vox-caster may Request Support if
 they are in vox network with an eligible unit that could Request Support
 and they did not receive a Voice of Command order this turn.
 
-\textbf{Forward Sentries:} Veterans with this doctrine may be treated as
+\textbf{Forward Sentries:} Veterans with this doctrine may be deployed as
 a Recon unit if they did not purchase a Dedicated Transport.
+
+\textbf{Infantry Platoons:} Infantry Platoons purchased as a Troops choice may unlock an additional
+Support Asset.
+
+\section{\texorpdfstring{\textbf{Tau Empire}}{Tau Empire}}\label{tau-empire}
+
+\subsection{\texorpdfstring{\textbf{Special
+Rules}}{Special Rules}}\label{special-rules}
+\textbf{Supporting Fire:} When an enemy unit declares a charge, all friendly models with this special rule in units within 6" of the charging unit’s target can choose to fire at the charging unit.
+If this rule is used, the weapon cannot be fired in the next turn, but the firing model can shoot a different weapon if it has one.
+
+\subsection{\texorpdfstring{\textbf{Wargear}}{Wargear}}\label{unit-changes}
+
+\textbf{Bonding Knife Ritual:} Confers +1WS in addition to Heroic Morale
+
+\textbf{Broadsides:}
+
+The unit may purchase Fire Control Suspensors (Slow \& Purposeful) as a Support System......15pts/model
+
+\textbf{Melee Weapons:}
+
+(May be purchased in place of Ranged Weapons)
+
+Power Weapon......15pts
+
+Onager Gauntlet....10pts
+
+\textbf{Signature Systems:}
+Up to 25 points may be spent on signature systems with no penalty. Further purchases count as a single Restricted choice.
+
+\textbf{:}
 
 \section{\texorpdfstring{\textbf{Tyranids}}{Tyranids}}\label{tyranids}
 
@@ -869,33 +914,21 @@ longer Gone to Ground.
 \chapter{\texorpdfstring{\textbf{Experimental
 Rules}}{Experimental Rules}}\label{experimental-rules}
 
+\section{\texorpdfstring{\textbf{Ranged Weapons}}{Ranged Weapons}}\label{ranged-weapons-1}
+\subsection{\texorpdfstring{\textbf{Shotguns}}{Shotguns}}\label{shotguns}
+
+\textbf{Buckshot}: Shotguns gain +1 Strength within half range.
+
 \section{\texorpdfstring{\textbf{Assault
 Phase}}{Assault Phase}}\label{assault-phase-1}
 
-\subsection{\texorpdfstring{\textbf{``Overwatch''}}{``Overwatch''}}\label{overwatch}
+\subsection{\texorpdfstring{\textbf{Overwatch}}{Overwatch}}\label{overwatch}
 
-During the Charge Sub-Phase after Charge distance has been rolled, the
-defending unit may elect to spend attacks from its Attacks
-characteristic to fire weapons with a total range of 18'' or less. Units
-that have Gone to Ground may not fire.
+Units that could fire Overwatch may only do so with weapons that are 18" range or shorter.
 
-A model may make a shooting attack with a single Assault(X) weapon it
-holds, or up to 2 Pistol weapons. If the charge was successful, treat
-the range as 1''. The model's Attacks (A) characteristic is reduced by 1
-for each shot until the end of the turn.
+Weapons with 12" range or shorter may fire normally instead of Snap Shots.
 
-If the chosen weapon has a greater Assault(X) than the attacks
-characteristic of the firing model, the model may still fire at a -1
-penalty for each shot over the limit, to a minimum of 6+. This penalty
-applies to all shots fired by the model.
-
-Assault Weapons that are double the bearer's strength or higher may only
-be fired as Snap Shots this way.
-
-\emph{Example: A Fire Warrior with a pulse carbine fires 2 shots at -1
-each, due to its A1 characteristic. Its Attack characteristic is reduced
-to 0 for the rest of the turn, and may not attack during the Fight
-sub-phase.}
+Overwatch fire may be counted as if the target were at any point along its charge path.
 
 \backmatter
 \end{document}

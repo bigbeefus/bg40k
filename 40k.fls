@@ -1,8 +1,8 @@
-PWD c:/Users/dan/Documents/40k-pandoc
+PWD c:/Users/dan/Documents/bg40k
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/dan/Documents/40k-pandoc/40k.tex
+INPUT c:/Users/dan/Documents/bg40k/40k.tex
 OUTPUT 40k.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
@@ -436,6 +436,10 @@ INPUT ./img/DefenseLine.png
 INPUT ./img/DefenseLine.png
 INPUT ./img/DefenseLine.png
 INPUT ./img/DefenseLine.png
+INPUT ./img/style/background.jpg
+INPUT ./img/style/background.jpg
+INPUT ./img/style/background.jpg
+INPUT ./img/style/background.jpg
 INPUT ./img/style/background.jpg
 INPUT ./img/style/background.jpg
 INPUT ./img/style/background.jpg

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.15)  22 NOV 2024 09:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.15)  14 DEC 2024 17:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/dan/Documents/40k-pandoc/40k.tex
-(c:/Users/dan/Documents/40k-pandoc/40k.tex
+**c:/Users/dan/Documents/bg40k/40k.tex
+(c:/Users/dan/Documents/bg40k/40k.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
 (c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
@@ -519,7 +519,11 @@ Package: xurl 2022/01/09 v 0.10 modify URL breaks
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count317
 \l__pdf_internal_box=\box68
-) (./40k.aux)
+) (./40k.aux
+
+LaTeX Warning: Label `special-rules' multiply defined.
+
+)
 \openout1 = `40k.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
@@ -646,11 +650,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 ... {3.2.1}\textbf {HQ}}{8}{subsection.3.2.1}
+l.41 ...extbf {Wound Allocation}}{7}{section.2.16}
                                                   %
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 40.
+Package pdftex.def Info: img/style/background.jpg  used on input line 41.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
  [1
 
@@ -672,7 +676,7 @@ Package pdftex.def Info: img/style/background.jpg  used on input line 102.
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 119.
+Package pdftex.def Info: img/style/background.jpg  used on input line 125.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [1
 
@@ -683,20 +687,20 @@ Package pdftex.def Info: img/style/background.jpg  used on input line 119.
 Chapter 1.
 
 LaTeX Font Warning: Font shape `OT1/pgoth/b/n' in size <20.74> not available
-(Font)              Font shape `OT1/pgoth/bx/n' tried instead on input line 119.
+(Font)              Font shape `OT1/pgoth/bx/n' tried instead on input line 125.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--132
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
@@ -706,7 +710,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 203.
+Package pdftex.def Info: img/style/background.jpg  used on input line 209.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [2
 
@@ -716,17 +720,17 @@ Package pdftex.def Info: img/style/background.jpg  used on input line 203.
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 273.
+Package pdftex.def Info: img/style/background.jpg  used on input line 279.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [3]
 Chapter 2.
 
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 333.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 325.
 (c:/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 333--336
+Underfull \hbox (badness 10000) in paragraph at lines 325--328
 
  []
 
@@ -734,33 +738,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--336
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 350.
+Package pdftex.def Info: img/style/background.jpg  used on input line 358.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [4
 
 ]
 
 
-
-File: img/style/background.jpg Graphic file (type jpg)
-<use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 431.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-[5]
-Underfull \hbox (badness 1019) in paragraph at lines 433--435
+Underfull \hbox (badness 1019) in paragraph at lines 421--423
 \T1/ptm/m/n/10 After win-ning com-bat, units au-to-mat-i-cally at-tempt a
  []
 
 
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 489.
-(c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 439.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[5]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 477.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
+
+
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 520.
+Package pdftex.def Info: img/style/background.jpg  used on input line 518.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [6{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
 
@@ -768,7 +773,7 @@ Package pdftex.def Info: img/style/background.jpg  used on input line 520.
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 536.
+Package pdftex.def Info: img/style/background.jpg  used on input line 542.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [7
 
@@ -780,27 +785,27 @@ Chapter 3.
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 602.
+Package pdftex.def Info: img/style/background.jpg  used on input line 608.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [8
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 635--637
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 637--639
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 639--641
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 641--643
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--645
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 645--647
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 647--649
 
  []
 
@@ -810,14 +815,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 641--643
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 646.
+Package pdftex.def Info: img/style/background.jpg  used on input line 652.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [9
 
 ]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 674--676
+Underfull \hbox (badness 10000) in paragraph at lines 680--682
 
  []
 
@@ -827,16 +832,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 674--676
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 705.
+Package pdftex.def Info: img/style/background.jpg  used on input line 710.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [10
 
 ]
 Chapter 5.
-<img/Counter-Attack.png, id=209, 970.3753pt x 674.52pt>
+<img/Counter-Attack.png, id=229, 970.3753pt x 674.52pt>
 File: img/Counter-Attack.png Graphic file (type png)
 <use img/Counter-Attack.png>
-Package pdftex.def Info: img/Counter-Attack.png  used on input line 711.
+Package pdftex.def Info: img/Counter-Attack.png  used on input line 716.
 (pdftex.def)             Requested size: 970.37294pt x 674.51836pt.
 
 
@@ -844,33 +849,45 @@ Package pdftex.def Info: img/Counter-Attack.png  used on input line 711.
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 770.
+Package pdftex.def Info: img/style/background.jpg  used on input line 781.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 [11
 
  <./img/Counter-Attack.png>]
-<img/DefenseLine.png, id=216, 1056.19594pt x 721.94719pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+<img/DefenseLine.png, id=236, 1056.19594pt x 721.94719pt>
 File: img/DefenseLine.png Graphic file (type png)
 <use img/DefenseLine.png>
-Package pdftex.def Info: img/DefenseLine.png  used on input line 773.
+Package pdftex.def Info: img/DefenseLine.png  used on input line 786.
 (pdftex.def)             Requested size: 1056.19336pt x 721.94542pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 773--777
+Underfull \hbox (badness 10000) in paragraph at lines 786--790
 []
  []
 
 
 
-
+File: img/style/background.jpg Graphic file (type jpg)
+<use img/style/background.jpg>
+Package pdftex.def Info: img/style/background.jpg  used on input line 818.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[12 <./img/DefenseLine.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 839.
+Package pdftex.def Info: img/style/background.jpg  used on input line 852.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-[12 <./img/DefenseLine.png>]
+[13
+
+]
 Chapter 6.
 
 
@@ -878,10 +895,9 @@ Chapter 6.
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 869.
+Package pdftex.def Info: img/style/background.jpg  used on input line 914.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-[13
-
+[14
 
 ]
 Chapter 7.
@@ -891,9 +907,9 @@ Chapter 7.
 
 File: img/style/background.jpg Graphic file (type jpg)
 <use img/style/background.jpg>
-Package pdftex.def Info: img/style/background.jpg  used on input line 900.
+Package pdftex.def Info: img/style/background.jpg  used on input line 933.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-[14
+[15
 
 
 ] (./40k.aux)
@@ -901,20 +917,24 @@ Package pdftex.def Info: img/style/background.jpg  used on input line 900.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 23515 strings out of 473579
- 426999 string characters out of 5732256
- 832128 words of memory out of 5000000
- 45870 multiletter control sequences out of 15000+600000
+ 23545 strings out of 473579
+ 427331 string characters out of 5732256
+ 833751 words of memory out of 5000000
+ 45889 multiletter control sequences out of 15000+600000
  610076 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,10n,107p,1226b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,10n,107p,1221b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/dan/.texlive2024/texmf-var/fonts/pk/ljfour/public/bookhands/pgothb17.720pk> <c:/Users/dan/.texlive2024/texmf-var/fonts/pk/ljfour/public/bookhands/pgoth17.720pk><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 40k.pdf (17 pages, 1850923 bytes).
+Output written on 40k.pdf (18 pages, 1852750 bytes).
 PDF statistics:
- 520 PDF objects out of 1000 (max. 8388607)
- 441 compressed objects within 5 object streams
- 88 named destinations out of 1000 (max. 500000)
- 12841 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 576 PDF objects out of 1000 (max. 8388607)
+ 496 compressed objects within 5 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 12921 words of extra memory for PDF output out of 14400 (max. 10000000)
 
